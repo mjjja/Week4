@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\dlsnditk\Week4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="266a1d9641a84c99f728e03a6c3d1b2ade3e6f66">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1857a30df137fe2965bbedc8af27ec3f506593b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김명준\.android\build-cache\6faa19ea11c6455eff61c2b08286e53dfc3a1143\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\classes_0f2b28ea664271189bbe688e1f0eea844532842d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김명준\.android\build-cache\70d12c44252ea1fc67e4abdc82b1cf684a5928df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\classes_600f8dd8164ac76a5a2f047ffe03110260c76e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_693b52f831c21d13f472a6515a00da9c860105ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김명준\.android\build-cache\0b44a41fbf8df48f4ea592f3ce9c8d7c47fee21f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\classes_40f733f76ad5ea7e007da9b46b94912be01850a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김명준\.android\build-cache\5089faacb945cc4a76cd2c89fad7b6d1dcb1e0f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\classes_e9874decd8c99f4f44ecf1d9fb953caffc15c206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_c0584a0bf5ed6ecbd84e403cfe550354b0c1bfc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김명준\.android\build-cache\47e2b617f849a541c402da295593fd09772e533d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\classes_19fa5c65e932c4daab841e0a958efd10c9b4e7f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김명준\.android\build-cache\24aafe460e855db1921be896a040efe0535148aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\classes_f995dd71f8d915318b408918d6b3c181606ac4bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김명준\.android\build-cache\119d546345c1668d36dbcf55cf7c63fbd4abea7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\classes_9180d640bb9cc707f4daaaa884338e8c5fbcbe66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김명준\.android\build-cache\c6ef19afd4f4168eb092989d0db3dcfc1b26dcf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\classes_43910a6f6fecf2101672fc06d10247d3176614d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김명준\.android\build-cache\f46de057cf917fb688bf69f26cbbd43b751c0848\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\classes_4edf6827c04a4a2cb23a2b825401389fed809a8a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dlsnditk\Week4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a865b4e91aea9f2599520311046bc752f2567c23\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\김명준\.android\build-cache\7a91fe5565c1557e56e11e8c74bb5c7c1aff7cf6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\dlsnditk\Week4\app\build\intermediates\pre-dexed\debug\classes_3c79d99e5e15c269274444871c78ca2ec61baf98.jar" />
+    </item>
+
+</items>

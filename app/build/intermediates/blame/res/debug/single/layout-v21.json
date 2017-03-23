@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\dlsnditk\\Week4\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\김명준\\.android\\build-cache\\7a91fe5565c1557e56e11e8c74bb5c7c1aff7cf6\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\dlsnditk\\Week4\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\김명준\\.android\\build-cache\\7a91fe5565c1557e56e11e8c74bb5c7c1aff7cf6\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\dlsnditk\\Week4\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\김명준\\.android\\build-cache\\7a91fe5565c1557e56e11e8c74bb5c7c1aff7cf6\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\dlsnditk\\Week4\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\김명준\\.android\\build-cache\\7a91fe5565c1557e56e11e8c74bb5c7c1aff7cf6\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
