@@ -23,6 +23,7 @@ public class Menu extends AppCompatActivity {
         ll1 = (LinearLayout)findViewById(R.id.Linear1);
         iv1 = (ImageView)findViewById(R.id.Chicken);
         iv2 = (ImageView)findViewById(R.id.Spaghetti);
+
     }
 
     @Override

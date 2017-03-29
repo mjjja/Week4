@@ -1,4 +1,4 @@
-#Thu Mar 23 16:35:29 KST 2017
+#Wed Mar 29 16:35:12 KST 2017
 base.0=E\:\\dlsnditk\\Week4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1857a30df137fe2965bbedc8af27ec3f506593b2
 renamed.1=classes.dex
 renamed.0=classes2.dex

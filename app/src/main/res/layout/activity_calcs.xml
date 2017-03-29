@@ -8,6 +8,7 @@
     tools:context="com.example.kmj.week4.Calcs">
 
     <TabHost
+        android:id="@+id/TH"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -27,44 +28,46 @@
                 android:layout_height="match_parent">
 
                 <LinearLayout
+                    android:background="#FFFF00"
                     android:id="@+id/BMI"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:orientation="vertical">
+                    android:orientation="vertical"
+                    android:visibility="gone">
 
                     <TextView
                         android:id="@+id/textView4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="키와 몸무게를 입력하세요" />
+                        android:hint="키와 몸무게를 입력하세요" />
 
                     <TextView
                         android:id="@+id/textView3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="키(cm)" />
+                        android:hint="키(cm)" />
 
                     <EditText
                         android:id="@+id/Height"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:ems="10"
-                        android:inputType="textPersonName"
-                        android:hint="키 입력" />
+                        android:hint="키 입력"
+                        android:inputType="textPersonName" />
 
                     <TextView
                         android:id="@+id/textView2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="체중(kg)" />
+                        android:hint="체중(kg)" />
 
                     <EditText
-                        android:id="@+id/editText"
+                        android:id="@+id/Weight"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:ems="10"
-                        android:inputType="textPersonName"
-                        android:hint="체중 입력" />
+                        android:hint="체중 입력"
+                        android:inputType="textPersonName" />
 
                     <Button
                         android:id="@+id/BMICalc"
@@ -81,10 +84,57 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/Area"
+                    android:id="@+id/AREA"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:orientation="vertical">
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/textView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="평이나 면적을 입력하세요" />
+
+                    <EditText
+                        android:id="@+id/Area"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ems="10"
+                        android:hint=""
+                        android:inputType="textPersonName" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imageView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            app:srcCompat="@android:drawable/ic_menu_send" />
+
+                        <TextView
+                            android:id="@+id/AREAResult"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:hint="계산결과가 없습니다." />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/P2SQ"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="평을 제곱미터로 변환" />
+
+                    <Button
+                        android:id="@+id/SQ2P"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="제곱미터를 평으로 변환" />
 
                 </LinearLayout>
 

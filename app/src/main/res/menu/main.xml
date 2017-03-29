@@ -10,6 +10,6 @@
         <item
             android:id="@+id/Calcs"
             android:checkable="false"
-            android:title="군대가기vs안가기" />
+            android:title="각종 계산기" />
     </group>
 </menu>
